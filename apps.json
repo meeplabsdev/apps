@@ -1,0 +1,12 @@
+{
+  "name": "meeplabsdev",
+  "identifier": "com.meeplabsdev.apps",
+  "website": "https://github.com/meeplabsdev/apps",
+  "subtitle": "github.com/meeplabsdev/apps",
+  "description": "",
+  "tintColor": "000000",
+  "iconURL": "https://raw.githubusercontent.com/meeplabsdev/apps/main/black.png",
+  "headerURL": "https://raw.githubusercontent.com/meeplabsdev/apps/main/black.png",
+  "apps": [],
+  "news": []
+}
