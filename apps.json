@@ -3,6 +3,31 @@
     {
       "beta": false,
       "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "Google, dayanch96",
+      "downloadURL": "https://files.catbox.moe/962oem.ipa",
+      "iconURL": "https://raw.githubusercontent.com/meeplabsdev/apps/main/assets/logo_youtubeplus.png",
+      "localizedDescription": "",
+      "name": "YouTube (Tweaked)",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/meeplabsdev/apps/main/assets/youtubeplus/1.jpg",
+        "https://raw.githubusercontent.com/meeplabsdev/apps/main/assets/youtubeplus/2.jpg",
+        "https://raw.githubusercontent.com/meeplabsdev/apps/main/assets/youtubeplus/3.jpg",
+        "https://raw.githubusercontent.com/meeplabsdev/apps/main/assets/youtubeplus/4.jpg",
+        "https://raw.githubusercontent.com/meeplabsdev/apps/main/assets/youtubeplus/5.jpg",
+        "https://raw.githubusercontent.com/meeplabsdev/apps/main/assets/youtubeplus/6.jpg",
+        "https://raw.githubusercontent.com/meeplabsdev/apps/main/assets/youtubeplus/7.jpg",
+        "https://raw.githubusercontent.com/meeplabsdev/apps/main/assets/youtubeplus/8.jpg"
+      ],
+      "size": 128839370,
+      "subtitle": "",
+      "tintColor": "ff0033",
+      "version": "21.09.2_5.2b4",
+      "versionDate": "",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Google",
       "downloadURL": "https://files.catbox.moe/mf8azy.ipa",
       "iconURL": "https://raw.githubusercontent.com/meeplabsdev/apps/main/assets/logo_youtube.png",
