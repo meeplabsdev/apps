@@ -5,8 +5,8 @@
   "subtitle": "github.com/meeplabsdev/apps",
   "description": "",
   "tintColor": "000000",
-  "iconURL": "https://raw.githubusercontent.com/meeplabsdev/apps/main/black.png",
-  "headerURL": "https://raw.githubusercontent.com/meeplabsdev/apps/main/black.png",
+  "iconURL": "https://raw.githubusercontent.com/meeplabsdev/apps/main/assets/black.png",
+  "headerURL": "https://raw.githubusercontent.com/meeplabsdev/apps/main/assets/black.png",
   "apps": [],
   "news": []
 }
